@@ -9,6 +9,8 @@
 > ### 2. Pranav Koundinya (201EC247)
 >
 > ### 3. Trivendra Tiwari 201EC163)
+>
+> ### 4. Igor Golovachenko
 
 ## Introduction:
 
